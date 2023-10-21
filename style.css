@@ -104,6 +104,15 @@ button:hover{
     object-fit: cover;
     border-radius: 5px;
 }
+
+@media (max-width:760px){
+ body{
+    background-color:white;
+ }
+ .news-container{
+    background-color:transparent;
+ }
+}
 @media (max-width:500px) {
     .image-content img {
         display:none;      
