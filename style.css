@@ -64,7 +64,7 @@ body{
 #validation{
     font-size:0.6rem;
     color:tomato;
-    display:block;
+    display:none;
 }
 input{
    padding:15px; 
